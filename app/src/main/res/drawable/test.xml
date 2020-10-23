@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="oval">
+    <stroke android:width="1dp" android:color="@color/profile_avatar_badge_stroke_state_list"/>
+    <solid android:color="@color/google_red500"/>
+    <size android:height="@dimen/profile_avatar_badge_size" android:width="@dimen/profile_avatar_badge_size"/>
+</shape>
